@@ -1,21 +1,33 @@
 ![Uploading image.png…]()
 
 
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+# Sports Personality Classification (Data Science & Machine Learning Project)
 
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
-Here is the folder structure,
+In this data science and machine learning project, we classify sports personalities using image-based features.  
+The classification is restricted to the following **5 sports personalities**:
 
-UI : This contains ui website code
-server: Python flask server
-model: Contains python notebook for model building
-google_image_scrapping: code to scrap google for images
-images_dataset: Dataset used for our model training
-Technologies used in this project,
+- Maria Sharapova  
+- Serena Williams  
+- Virat Kohli  
+- Roger Federer  
+- Lionel Messi  
+
+
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python**
+- **NumPy & OpenCV** – Data cleaning and image preprocessing
+- **Matplotlib & Seaborn** – Data visualization
+- **Scikit-learn (Sklearn)** – Model building and evaluation
+- **Jupyter Notebook**, **Visual Studio Code**, **PyCharm** – Development environments
+- **Flask (Python)** – HTTP server
+- **HTML / CSS / JavaScript** – User Interface
+
+---
+
 
 Python
 Numpy and OpenCV for data cleaning
